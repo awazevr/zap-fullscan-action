@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/awazevr/zap-fullscan-action/compare/v1.0.0...v1.0.1) (2022-02-03)
+
+
+### Bug Fixes
+
+* Merge pull request [#1](https://github.com/awazevr/zap-fullscan-action/issues/1) from awazevr/dependabot/npm_and_yarn/node-fetch-2.6.7 ([69e46b8](https://github.com/awazevr/zap-fullscan-action/commit/69e46b8b7616ae9e7b07cd3a09fcdfa916246807))
+
 # 1.0.0 (2022-02-03)
 
 
