@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/awazevr/zap-fullscan-action/compare/v1.0.1...v1.0.2) (2022-02-04)
+
+
+### Bug Fixes
+
+* update documentation ([9e830fe](https://github.com/awazevr/zap-fullscan-action/commit/9e830fea9113401c945fa2f1a63a0b85d41556cc))
+
 ## [1.0.1](https://github.com/awazevr/zap-fullscan-action/compare/v1.0.0...v1.0.1) (2022-02-03)
 
 
